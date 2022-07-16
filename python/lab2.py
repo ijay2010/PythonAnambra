@@ -12,4 +12,3 @@ total_time = hour*60
 total_time = total_time + mins + dura
 print((total_time/60)%24, end=":")
 print(total_time%60)
-
